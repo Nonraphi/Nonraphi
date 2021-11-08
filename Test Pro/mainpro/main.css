@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.logo{
+
+    margin-left:auto;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img {    
+    height: 90px;
+    
+}
+
+header {
+    background-color: bisque;
+    position: sticky;
+    display: flex;
+    
+    
+}
+.nav-left{
+    
+}
+.nav-right{
+    
+}
+body {
+    height: 2000px;
+    background-color: wheat;
+}
